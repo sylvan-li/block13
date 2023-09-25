@@ -23,7 +23,7 @@ if(value="I am a string") {
 //Greater than 5
 //ask user for input 
 //initialize user input into variables 
-//write 
+//write code that dictate that a number should be greater than or equal to five to successfully have a true
 
 let num1=10;
 let num2=11;
@@ -36,8 +36,7 @@ else{console.log("false");}
 //Pair and Compare
 //ask user for input
 //initialize user input into variables
-//write parameters that meet expected print
-//celebrate and go out for pizza 
+//use || operator to ensure at least one pair is truthy 
 
 let param1A="cat";
 let param1B="cat";
