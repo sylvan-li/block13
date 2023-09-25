@@ -16,7 +16,7 @@ if(value="I am a string") {
 } if (value=0);{
   console.log("The number 0 is falsy (the only falsy number)");
 } if (value ="");{
-  console.log("the empty string is falsy (the only falsy string)")
+  console.log("the empty string is falsy (the only falsy string)");
 }
 
 
