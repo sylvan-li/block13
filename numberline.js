@@ -1,6 +1,7 @@
 //Is Truthy
 //ask user for input
 //initialize user input into variables 
+//write code for desired output that reflects input 
 //
 
 let value="I am a string";
