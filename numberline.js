@@ -1,3 +1,55 @@
+//Is Truthy
+//ask user for input
+//initialize user input into variables 
+//
+
+let value="I am a string";
+
+if(value="I am a string") {
+  console.log(true);
+} else if (value=false){
+  console.log("the boolean value false is falsy"); 
+} else if (value=null);{
+  console.log("the null value is falsy");
+} if (value=undefined);{
+  console.log("undefined is falsy");
+} if (value=0);{
+  console.log("The number 0 is falsy (the only falsy number)");
+} if (value ="");{
+  console.log("the empty string is falsy (the only falsy string)")
+}
+
+
+//Greater than 5
+//ask user for input 
+//initialize user input into variables 
+//write 
+
+let num1=10;
+let num2=11;
+
+if (num1,num2>=5){
+    console.log("true");}
+else{console.log("false");}
+     
+
+//Pair and Compare
+//ask user for input
+//initialize user input into variables
+//write parameters that meet expected print
+//celebrate and go out for pizza 
+
+let param1A="cat";
+let param1B="cat";
+let param2A=6;
+let param2B="6"
+
+if(param2A===param2B || param1A===param1B){
+    console.log("true");
+} else{
+    console.log("false");
+}
+
 //Number Line
 //ask user for input for both variables
 //initialize these variables 
